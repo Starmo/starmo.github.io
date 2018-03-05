@@ -14,14 +14,14 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: EricJJMoore
+weibo: J-Starmo
+github: Starmo
+instagram: moyanjie
+linkedin: Starmo
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: https://s.gravatar.com/avatar/2d93c2c0d6d8a92c34ee280e4bed6cd8?s=80
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
