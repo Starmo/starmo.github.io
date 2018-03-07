@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: Starmo的博客
+email: moyanjie.os@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  Starmo的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://starmo.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Mo Yanjie
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: EricJJMoore
+weibo: J-Starmo
+github: Starmo
+instagram: moyanjie
+linkedin: 雁杰-莫-18830815b
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://s.gravatar.com/avatar/2d93c2c0d6d8a92c34ee280e4bed6cd8?s=80
+favicon: https://s.gravatar.com/avatar/2d93c2c0d6d8a92c34ee280e4bed6cd8?s=80
 
 # disqus config
 disqus:
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: starmo.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
