@@ -51,7 +51,7 @@ $(function() {
     {% if site.disqus.shortname %}
       var ds_loaded = false;
       window.disqus_shortname = "{{ site.disqus.shortname }}";
-      display(window.disqus_shortname);
+      console.log(window.disqus_shortname);
       main.scroll(function(){
         var nScrollHight = $(this)[0].scrollHeight;
         var nScrollTop = $(this)[0].scrollTop;
