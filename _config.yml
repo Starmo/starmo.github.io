@@ -26,7 +26,7 @@ favicon: https://s.gravatar.com/avatar/2d93c2c0d6d8a92c34ee280e4bed6cd8?s=80
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: starmo-cn
 
 # google analytics config
 ga:
