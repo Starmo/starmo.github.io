@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim 查找替换
-category: 学习
+category: 工具
 tags: Vim
 keywords: Vim
 ---
